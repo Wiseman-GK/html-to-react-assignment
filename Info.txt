@@ -1,0 +1,9 @@
+I know this assignment is not complete, for some reason i lost permissions in the discord server
+
+I was not sure if i was to make a new React based on the original or modify the original into a react app
+so i did the first and made an entirely new app based on the original. so i put the original in the original
+folder and the App i made is in the Html-to-React folder.
+
+For some reason when I try to use .map the whole app stops rendering and i cant find out why, there is no errors 
+or mistype code as far as i can tell, it is just not rendering, and it is the whole .jsx that stops not just .map
+code
